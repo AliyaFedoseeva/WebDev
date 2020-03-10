@@ -5,3 +5,9 @@ h1, h2{
 nav {
 	color: blue;
 }
+.bigSection{
+	height: 300px;
+	background-image: url(../img/chuck.jpg);
+	background-position: center;
+	background-attachment: fixed;
+}
